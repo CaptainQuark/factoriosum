@@ -1,0 +1,25 @@
+body {
+  background-color: #3c3c3c;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+h1 {
+  color: gray;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 55px;
+  margin-left: 20px;
+}
+
+input {
+  border: none;
+  outline: none;
+  background-color: #3c3c3c;
+  background: #3c3c3c;
+  color: Gainsboro;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  text-align: center;
+}
